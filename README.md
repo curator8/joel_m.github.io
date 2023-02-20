@@ -1,2 +1,1 @@
-# joel_m.github.io
-my personal portfolio on Github
+visit https://curator8.github.io/joel_m.github.io/ to view my portfolio
